@@ -25,7 +25,7 @@ I recently completed my Master's in Computer Science from NYU Tandon, and am pas
 ---
 
 ### 📫 How to Reach Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rashmikaranjan/)  
+- 🌐 [LinkedIn](www.linkedin.com/in/rashmika-ranjan)  
 - 📧 rashmika.ranjan@nyu.edu
 
 ---
